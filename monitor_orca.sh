@@ -1,7 +1,7 @@
 #!/bin/bash
 
 CONFIG_DIR="."
-BACKUP_SCRIPT="backup_orca.sh"
+BACKUP_SCRIPT="./backup_orca.sh"
 
 while true; do
   inotifywait -r -e modify,create,delete,move "$CONFIG_DIR"
