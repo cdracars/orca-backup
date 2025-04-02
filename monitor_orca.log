@@ -39167,3 +39167,19 @@ Setting up watches.  Beware: since -r was given, this may take a while!
 Watches established.
 ./ MODIFY monitor_orca.log
  M monitor_orca.log
+warning: LF will be replaced by CRLF in monitor_orca.log.
+The file will have its original line endings in your working directory
+[master 29befb1] Automatic backup 2025-04-02 06:00:01
+ 1 file changed, 16 insertions(+)
+Changes committed on 2025-04-02 06:00:02
+To github.com:cdracars/orca-backup.git
+   204dd34..29befb1  master -> master
+Changes pushed to remote repository
+Setting up watches.  Beware: since -r was given, this may take a while!
+./monitor_orca.sh: line 11: backup_orca.sh: command not found
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+./ MODIFY monitor_orca.log
+Watches established.
+./ MODIFY monitor_orca.log
+ M monitor_orca.log
