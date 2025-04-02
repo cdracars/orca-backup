@@ -1,0 +1,19 @@
+{
+    "brim_width": "2",
+    "enable_support": "1",
+    "ensure_vertical_shell_thickness": "none",
+    "from": "User",
+    "inherits": "0.30mm Draft @MK3S 0.4",
+    "is_custom_defined": "0",
+    "name": "0.30mm Draft @MK3S 0.4 - Functional Prints",
+    "print_settings_id": "0.30mm Draft @MK3S 0.4 - Functional Prints",
+    "skirt_loops": "0",
+    "sparse_infill_density": "10%",
+    "sparse_infill_pattern": "gyroid",
+    "support_style": "default",
+    "support_top_z_distance": "0.3",
+    "support_type": "tree(auto)",
+    "version": "2.2.0.4",
+    "wall_loops": "3",
+    "wall_sequence": "inner-outer-inner wall"
+}

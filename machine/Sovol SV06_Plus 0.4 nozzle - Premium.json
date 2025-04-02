@@ -1,0 +1,28 @@
+{
+    "from": "User",
+    "inherits": "Sovol SV06 Plus 0.4 nozzle",
+    "is_custom_defined": "0",
+    "machine_max_acceleration_x": [
+        "2500",
+        "960"
+    ],
+    "machine_max_acceleration_y": [
+        "2500",
+        "960"
+    ],
+    "max_layer_height": [
+        "0.32"
+    ],
+    "name": "Sovol SV06_Plus 0.4 nozzle - Premium",
+    "print_host": "192.168.50.119:5001",
+    "printer_settings_id": "Sovol SV06_Plus 0.4 nozzle - Premium",
+    "printhost_apikey": "Gs6JnLALW5mb4Pt_xSWqcgTzVdyavZM0z9wptOgX-Rg ",
+    "retract_when_changing_layer": [
+        "0"
+    ],
+    "thumbnails": "300x300/PNG, 50x50/PNG, 32x32/PNG",
+    "version": "2.2.0.4",
+    "wipe": [
+        "0"
+    ]
+}

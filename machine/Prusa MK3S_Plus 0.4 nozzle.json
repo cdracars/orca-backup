@@ -1,0 +1,12 @@
+{
+    "from": "User",
+    "host_type": "octoprint",
+    "inherits": "Prusa MK3S 0.4 nozzle",
+    "is_custom_defined": "0",
+    "name": "Prusa MK3S_Plus 0.4 nozzle",
+    "print_host": "192.168.50.119:5000",
+    "printer_settings_id": "Prusa MK3S_Plus 0.4 nozzle",
+    "printhost_apikey": "UNMehrrL9j5w_0hJfFIMfFYku1N9U9wQ-kgUK455ToU",
+    "thumbnails": "16x16/PNG, 220x124/PNG",
+    "version": "2.2.0.4"
+}

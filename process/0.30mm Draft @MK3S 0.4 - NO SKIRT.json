@@ -1,0 +1,10 @@
+{
+    "brim_type": "brim_ears",
+    "from": "User",
+    "inherits": "0.30mm Draft @MK3S 0.4",
+    "is_custom_defined": "0",
+    "name": "0.30mm Draft @MK3S 0.4 - NO SKIRT",
+    "print_settings_id": "0.30mm Draft @MK3S 0.4 - NO SKIRT",
+    "skirt_loops": "0",
+    "version": "2.2.0.4"
+}

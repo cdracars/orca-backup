@@ -1,0 +1,13 @@
+{
+    "elefant_foot_compensation": "0.15",
+    "from": "User",
+    "inherits": "0.15mm Quality @MK3S 0.4",
+    "initial_layer_travel_speed": "25%",
+    "is_custom_defined": "0",
+    "name": "0.15mm Quality @MK3S 0.4 - Dummy 13 Frame",
+    "print_settings_id": "0.15mm Quality @MK3S 0.4 - Dummy 13 Frame",
+    "sparse_infill_density": "20%",
+    "sparse_infill_pattern": "zig-zag",
+    "version": "2.3.0.3",
+    "wall_sequence": "inner-outer-inner wall"
+}
